@@ -1,8 +1,2 @@
-# tareasoptativa
-echo "# tareasoptativa" >> README.md
-  git init
-  git add README.md
-  git commit -m "first commit"
-  git branch -M main
-  git remote add origin https://github.com/yoalivette/tareasoptativa.git
-  git push -u origin main
+# Alquimistico
+  El proyecto consiste en el reconocimiento de poses que se llevaran a cabo con el cuerpo y que se relacionara con una runa alquimista acorde
