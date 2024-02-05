@@ -1,2 +1,2 @@
-# Alquimista
-  El proyecto consiste en el reconocimiento de poses que se llevaran a cabo con el cuerpo y que se relacionara con una runa alquimista acorde
+# Elemental
+  El proyecto consiste en la presentacion de dos conjuntos de simbolos utilizados para representar a los 4 elementos en diferentes contextos (en este caso, con los simbolos alquimicos de los elementos, y los simbolos ficticios utilizados para representar a las naciones de los elementos en "Avatar: the last airbender"), estos simbolos estan ubicado en 4 puntos del cuerpo y su cambio con la respectiva contraparte se puede observar cuando la persona se mueve verticalmente en la pantalla. Para hacer el uso un poco más comodo los puntos elegido estan hubicados en la parte superior del cuerpo, por lo que el usuario podra utilizar el modelo sentado y el modelo tenga funcionalidad total.
